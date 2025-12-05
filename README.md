@@ -2,6 +2,6 @@
 
 
 <img
-  src="https://github-readme-stats-sigma-five.vercel.app/api?username=desireediass&show_icons=true&theme=dracula"
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=desireedias&show_icons=true&theme=dracula"
   />
-﻿<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=desireediass&layout=compact&theme=dracula" />
+﻿<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=desireedias&layout=compact&theme=dracula" />
