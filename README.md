@@ -1,4 +1,4 @@
-## Ola, eu sou a Desiree Dias 👋
+## Ola, eu sou Desiree Dias 👋
 
 
 <img
