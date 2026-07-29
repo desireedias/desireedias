@@ -1,6 +1,6 @@
 <div align = "center">
   
-  # Ola, eu sou Desiree Dias 👋
+  # Olá, eu sou Desireé Dias 👋
 
 Desenvolvedora Full Stack com foco em aplicações web acessíveis, organizadas e escaláveis. 
 Atualmente aprofundando conhecimentos em Backend com Python, Django e APIs REST.
@@ -9,6 +9,19 @@ Atualmente aprofundando conhecimentos em Backend com Python, Django e APIs REST.
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:desireerdias@gmail.com)
 
 </div>
+
+---
+
+## 📊 GitHub Stats
+
+<img
+  height="180em"
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=desireedias&show_icons=true&theme=dracula"
+  />
+﻿<img
+   height="180em"
+   src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=desireedias&layout=compact&theme=dracula" 
+   />
 
 ---
 ## 💻 Tech Stack:
@@ -60,19 +73,6 @@ Atualmente aprofundando conhecimentos em Backend com Python, Django e APIs REST.
 ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Shadcn/ui](https://img.shields.io/badge/shadcn/ui-%23000000.svg?style=for-the-badge&logo=shadcnui&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<img
-  height="180em"
-  src="https://github-readme-stats-sigma-five.vercel.app/api?username=desireedias&show_icons=true&theme=dracula"
-  />
-﻿<img
-   height="180em"
-   src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=desireedias&layout=compact&theme=dracula" 
-   />
 
 
 ---
