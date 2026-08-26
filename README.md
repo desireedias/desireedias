@@ -20,6 +20,8 @@ Atualmente aprofundando conhecimentos em Backend com Python, Django e APIs REST.
 <!-- Troféus de Conquistas -->
 ![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=desireedias&theme=onedark&column=4)
 
+![Estatísticas](https://metrics.lecoq.io/desireedias?template=classic&base.header=0&base.activity=0&base.community=0&config.timezone=America%2FPorto_Velho)
+
 ---
 ## 💻 Tech Stack:
 
