@@ -14,11 +14,11 @@ Atualmente aprofundando conhecimentos em Backend com Python, Django e APIs REST.
 
 ## 📊 GitHub Stats
 
-<!-- Card de Estatísticas Gerais -->
-![Estatísticas do GitHub](https://github-readme-stats-sigma-five.vercel.app/api?username=desireedias&show_icons=true&theme=dracula)
+<!-- Card de Sequência de Commits (Streak) -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=desireedias&theme=dracula&hide_border=true)
 
-<!-- Card de Linguagens Mais Usadas -->
-![Linguagens Mais Usadas](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=desireedias&layout=compact&theme=dracula)
+<!-- Troféus de Conquistas -->
+![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=desireedias&theme=onedark&column=4)
 
 ---
 ## 💻 Tech Stack:
